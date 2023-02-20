@@ -1,0 +1,341 @@
+.desktop1-desktop1 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-rectangle1 {
+  top: 94px;
+  left: 0px;
+  width: 1440px;
+  height: 473px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+}
+.desktop1-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 88px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop1-text {
+  top: 25px;
+  left: 237px;
+  color: rgba(0, 0, 0, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-text02 {
+  top: 25px;
+  left: 859px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-text04 {
+  top: 25px;
+  left: 940px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-text06 {
+  top: 25px;
+  left: 1047px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-text08 {
+  top: 25px;
+  left: 1151px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-text10 {
+  top: 579px;
+  left: 453px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-text12 {
+  top: 612px;
+  left: 527px;
+  color: rgba(0, 0, 0, 1);
+  width: 299px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-rectangle5 {
+  top: 721px;
+  left: 301px;
+  width: 226px;
+  height: 148px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.desktop1-text17 {
+  top: 883px;
+  left: 361px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-text19 {
+  top: 883px;
+  left: 650px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-text21 {
+  top: 883px;
+  left: 904px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop1-rectangle7 {
+  top: 916px;
+  left: 372px;
+  width: 84px;
+  height: 26px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop1-rectangle8 {
+  top: 916px;
+  left: 369px;
+  width: 84px;
+  height: 26px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop1-rectangle10 {
+  top: 916px;
+  left: 990px;
+  width: 84px;
+  height: 26px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop1-text23 {
+  top: 919px;
+  left: 996px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.desktop1-rectangle9 {
+  top: 916px;
+  left: 678px;
+  width: 84px;
+  height: 26px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop1-text25 {
+  top: 919px;
+  left: 378px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.desktop1-rectangle11 {
+  top: 738px;
+  left: 293px;
+  width: 234px;
+  height: 128px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.desktop1-rectangle12 {
+  top: 738px;
+  left: 603px;
+  width: 234px;
+  height: 128px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.desktop1-rectangle13 {
+  top: 738px;
+  left: 913px;
+  width: 234px;
+  height: 128px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.desktop1-more-info {
+  top: 919px;
+  left: 686px;
+  width: 72px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.desktop1-text27 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
